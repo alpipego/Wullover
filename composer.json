@@ -1,0 +1,12 @@
+{
+    "name": "alpipego/wullover",
+    "description": "Wunderlist Auto Rollover",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.4",
+        "quandigital/wp-libs": "~1.0",
+        "composer/installers": "~1.0",
+        "jeroendesloovere/wunderlist-php-api": "~1.0"
+    }
+}
